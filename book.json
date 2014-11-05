@@ -1,0 +1,17 @@
+{
+    "generator": "site",
+    "title": "为什么你的 App 用户来了就走？",
+    "description": "用户从下载安装App到第一步流畅使用这中间所需要注意的事项",
+    "links": {
+        "sidebar": {
+            "开源主页": "https://github.com/qetee/why-your-app-users-go-away"
+        },
+        "sharing": {
+            "google": false,
+            "facebook": false,
+            "twitter": false,
+            "weibo": false,
+            "all": false
+        }
+    }
+}
